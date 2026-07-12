@@ -1,0 +1,7 @@
+title: Forest Adventure
+blurb: Make a character and explore a 3D forest full of animals.
+tags: [game]
+setup: npm install
+server:
+  command: npm run dev
+  port: 5279
